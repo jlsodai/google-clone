@@ -5,7 +5,7 @@ import SearchPage from "./pages/SearchPage";
 
 function App() {
   return (
-    <div className="">
+    <div className="text-gray-800 text-[15px]">
       <Routes>
         <Route path="/" element={<HomePage />}/>
         <Route path="search" element={ <SearchPage />} />

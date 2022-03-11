@@ -1,0 +1,602 @@
+{
+	"kind": "customsearch#search",
+	"url": {
+		"type": "application/json",
+		"template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+	},
+	"queries": {
+		"request": [
+			{
+				"title": "Google Custom Search - Julius Odai",
+				"totalResults": "44200",
+				"searchTerms": "Julius Odai",
+				"count": 10,
+				"startIndex": 1,
+				"inputEncoding": "utf8",
+				"outputEncoding": "utf8",
+				"safe": "off",
+				"cx": "27fa05010b0454969"
+			}
+		],
+		"nextPage": [
+			{
+				"title": "Google Custom Search - Julius Odai",
+				"totalResults": "44200",
+				"searchTerms": "Julius Odai",
+				"count": 10,
+				"startIndex": 11,
+				"inputEncoding": "utf8",
+				"outputEncoding": "utf8",
+				"safe": "off",
+				"cx": "27fa05010b0454969"
+			}
+		]
+	},
+	"context": {
+		"title": "Google"
+	},
+	"searchInformation": {
+		"searchTime": 0.435711,
+		"formattedSearchTime": "0.44",
+		"totalResults": "44200",
+		"formattedTotalResults": "44,200"
+	},
+	"items": [
+		{
+			"kind": "customsearch#result",
+			"title": "Julius Odai - Chief Executive Officer - BetterReceipts | LinkedIn",
+			"htmlTitle": "<b>Julius Odai</b> - Chief Executive Officer - BetterReceipts | LinkedIn",
+			"link": "https://gh.linkedin.com/in/julius-odai",
+			"displayLink": "gh.linkedin.com",
+			"snippet": "Business Process Optimization & Automation Specialist with over 7 years experience as a software engineer and Tech Entrepreneur. I help businesses become ...",
+			"htmlSnippet": "Business Process Optimization &amp; Automation Specialist with over 7 years experience as a software engineer and Tech Entrepreneur. I help businesses become&nbsp;...",
+			"formattedUrl": "https://gh.linkedin.com/in/julius-odai",
+			"htmlFormattedUrl": "https://gh.linkedin.com/in/<b>julius</b>-<b>odai</b>",
+			"pagemap": {
+				"cse_thumbnail": [
+					{
+						"src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTamMDoOrnaKTs7z9wIufJqwuuqH771VA2F8A4kEXEWKn_PEF-quZv3iHG2",
+						"width": "200",
+						"height": "200"
+					}
+				],
+				"metatags": [
+					{
+						"og:image": "https://media-exp1.licdn.com/dms/image/D4D03AQFK-8VEZH1SDw/profile-displayphoto-shrink_200_200/0/1632793309883?e=1648080000&v=beta&t=vU8OHjvvnG8u6lyNFLtDVSu8rNRxC2-FRlaAv_8ziUs",
+						"twitter:card": "summary",
+						"platform-worker": "https://static-exp1.licdn.com/sc/h/7nirg34a8ey4y2l4rw7xgwxx4",
+						"al:android:package": "com.linkedin.android",
+						"locale": "en_US",
+						"al:ios:url": "https://gh.linkedin.com/in/julius-odai",
+						"og:description": "View Julius Odai’s profile on LinkedIn, the world’s largest professional community. Julius has 4 jobs listed on their profile. See the complete profile on LinkedIn and discover Julius’ connections and jobs at similar companies.",
+						"al:ios:app_store_id": "288429040",
+						"platform": "https://static-exp1.licdn.com/sc/h/4d5byaizgk6fd61jwnifx58p6",
+						"twitter:image": "https://media-exp1.licdn.com/dms/image/D4D03AQFK-8VEZH1SDw/profile-displayphoto-shrink_200_200/0/1632793309883?e=1648080000&v=beta&t=vU8OHjvvnG8u6lyNFLtDVSu8rNRxC2-FRlaAv_8ziUs",
+						"profile:last_name": "Odai",
+						"twitter:site": "@Linkedin",
+						"litmsprofilename": "public-profile-frontend",
+						"profile:first_name": "Julius",
+						"og:type": "profile",
+						"twitter:title": "Julius Odai - Chief Executive Officer - BetterReceipts | LinkedIn",
+						"al:ios:app_name": "LinkedIn",
+						"og:title": "Julius Odai - Chief Executive Officer - BetterReceipts | LinkedIn",
+						"pagekey": "public_profile_v3_mobile",
+						"al:android:url": "https://gh.linkedin.com/in/julius-odai",
+						"viewport": "width=device-width, initial-scale=1.0",
+						"twitter:description": "View Julius Odai’s profile on LinkedIn, the world’s largest professional community. Julius has 4 jobs listed on their profile. See the complete profile on LinkedIn and discover Julius’ connections and jobs at similar companies.",
+						"ubba": "https://static-exp1.licdn.com/sc/h/cw715fuijetq48vhfutlcuw89",
+						"og:url": "https://gh.linkedin.com/in/julius-odai",
+						"al:android:app_name": "LinkedIn"
+					}
+				],
+				"cse_image": [
+					{
+						"src": "https://media-exp1.licdn.com/dms/image/D4D03AQFK-8VEZH1SDw/profile-displayphoto-shrink_200_200/0/1632793309883?e=1648080000&v=beta&t=vU8OHjvvnG8u6lyNFLtDVSu8rNRxC2-FRlaAv_8ziUs"
+					}
+				]
+			}
+		},
+		{
+			"kind": "customsearch#result",
+			"title": "Julius Odai - Co-Founder, Chief Product Officer @ DevLess ...",
+			"htmlTitle": "<b>Julius Odai</b> - Co-Founder, Chief Product Officer @ DevLess ...",
+			"link": "https://www.crunchbase.com/person/julius-odai",
+			"displayLink": "www.crunchbase.com",
+			"snippet": "Julius Odai - Co-Founder, Chief Product Officer @ DevLess.",
+			"htmlSnippet": "<b>Julius Odai</b> - Co-Founder, Chief Product Officer @ DevLess.",
+			"cacheId": "eMaK1drjla4J",
+			"formattedUrl": "https://www.crunchbase.com/person/julius-odai",
+			"htmlFormattedUrl": "https://www.crunchbase.com/person/<b>julius</b>-<b>odai</b>",
+			"pagemap": {
+				"cse_thumbnail": [
+					{
+						"src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBJqvTv-2lSQ6uk4ghwalPubzYDE62FZJXwRWDq8Lx11S4J0gTGTIZw_Na",
+						"width": "225",
+						"height": "225"
+					}
+				],
+				"metatags": [
+					{
+						"og:image": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1499675261/ftzd4ijqk0f5qo8xhvmn.png",
+						"og:type": "website",
+						"og:image:alt": "Julius Odai - Co-Founder, Chief Product Officer @ DevLess",
+						"og:image:width": "256",
+						"og:site_name": "Crunchbase",
+						"viewport": "width=device-width, minimum-scale=1.0, initial-scale=1.0",
+						"og:title": "Julius Odai - Co-Founder, Chief Product Officer @ DevLess - Crunchbase Person Profile",
+						"og:image:height": "256",
+						"og:url": "https://www.crunchbase.com/person/julius-odai",
+						"og:description": "Julius Odai - Co-Founder, Chief Product Officer @ DevLess",
+						"og:image:secure_url": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1499675261/ftzd4ijqk0f5qo8xhvmn.png"
+					}
+				],
+				"cse_image": [
+					{
+						"src": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1499675261/ftzd4ijqk0f5qo8xhvmn.png"
+					}
+				]
+			}
+		},
+		{
+			"kind": "customsearch#result",
+			"title": "Startup Profile: DevLess -- build custom app/website backends in ...",
+			"htmlTitle": "Startup Profile: DevLess -- build custom app/website backends in ...",
+			"link": "https://techpoint.africa/2017/02/17/devless-profile/",
+			"displayLink": "techpoint.africa",
+			"snippet": "Feb 17, 2017 ... But by providing a web platform that simplifies the process, Julius Odai and Edmond Mensah are looking to make life a lot easier for ...",
+			"htmlSnippet": "Feb 17, 2017 <b>...</b> But by providing a web platform that simplifies the process, <b>Julius Odai</b> and Edmond Mensah are looking to make life a lot easier for&nbsp;...",
+			"cacheId": "p9BzUncRyRkJ",
+			"formattedUrl": "https://techpoint.africa/2017/02/17/devless-profile/",
+			"htmlFormattedUrl": "https://techpoint.africa/2017/02/17/devless-profile/",
+			"pagemap": {
+				"cse_thumbnail": [
+					{
+						"src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCBrJ9c6PnroBjs32Jnqhr_h5xJKtuGs2DarHB3CnK4dYAP08GS0uzE1o",
+						"width": "275",
+						"height": "183"
+					}
+				],
+				"metatags": [
+					{
+						"og:image": "https://techpoint.africa/wp-content/uploads/2016/10/developer.jpg",
+						"twitter:card": "summary_large_image",
+						"og:image:width": "1050",
+						"article:published_time": "2017-02-17T00:00:00+01:00",
+						"og:site_name": "Techpoint Africa",
+						"twitter:label1": "Written by",
+						"og:image:type": "image/jpeg",
+						"twitter:creator": "@techpointdotng",
+						"og:description": "DevLess claims to make life easier for developers by helping them build backends, with little or no coding, in less than 10 minutes.",
+						"article:publisher": "https://web.facebook.com/TechpointAfrica/",
+						"og:image:secure_url": "https://techpoint.africa/wp-content/uploads/2016/10/developer.jpg",
+						"twitter:image": "https://techpoint.africa/wp-content/uploads/2016/10/developer.jpg",
+						"twitter:data1": "Ifeanyi Ndiomewese",
+						"twitter:site": "@techpointdotng",
+						"article:modified_time": "2021-05-27T16:13:20+01:00",
+						"og:type": "article",
+						"twitter:title": "Startup Profile: DevLess — build custom app/website backends in minutes",
+						"article:section": "General",
+						"og:image:alt": "Startup Profile: DevLess — build custom app/website backends in minutes",
+						"og:title": "Startup Profile: DevLess — build custom app/website backends in minutes",
+						"og:image:height": "700",
+						"og:updated_time": "2021-05-27T16:13:20+01:00",
+						"twitter:image:src": "https://techpoint.africa/wp-content/uploads/2016/10/developer.jpg",
+						"article:tag": "Backend",
+						"fb:app_id": "1923155921341058",
+						"twitter:description": "DevLess claims to make life easier for developers by helping them build backends, with little or no coding, in less than 10 minutes.",
+						"og:locale": "en_US",
+						"og:url": "https://techpoint.africa/2017/02/17/devless-profile/"
+					}
+				],
+				"cse_image": [
+					{
+						"src": "https://techpoint.africa/wp-content/uploads/2016/10/developer.jpg"
+					}
+				]
+			}
+		},
+		{
+			"kind": "customsearch#result",
+			"title": "Olanipekun Olaide - Chief Executive Officer - Tef International ...",
+			"htmlTitle": "Olanipekun Olaide - Chief Executive Officer - Tef International ...",
+			"link": "https://ng.linkedin.com/in/olanipekun-olaide-1600631b0",
+			"displayLink": "ng.linkedin.com",
+			"snippet": "Julius S.O. NWOKORO Ph.D. Chairman at Municos Ltd. Nigeria ... Julius Odai. Software Engineer | Business Process Optimization & Automation Consultant | ...",
+			"htmlSnippet": "Julius S.O. NWOKORO Ph.D. Chairman at Municos Ltd. Nigeria ... <b>Julius Odai</b>. Software Engineer | Business Process Optimization &amp; Automation Consultant |&nbsp;...",
+			"formattedUrl": "https://ng.linkedin.com/in/olanipekun-olaide-1600631b0",
+			"htmlFormattedUrl": "https://ng.linkedin.com/in/olanipekun-olaide-1600631b0",
+			"pagemap": {
+				"metatags": [
+					{
+						"og:image": "https://media-exp1.licdn.com/dms/image/C5603AQEhT9nlKpfGEw/profile-displayphoto-shrink_200_200/0/1609688173161?e=1652313600&v=beta&t=W4ImKck9YWlO_qGBz_CytWNTMNEhpMgcVhzUfJLTppQ",
+						"twitter:card": "summary",
+						"platform-worker": "https://static-exp1.licdn.com/sc/h/7nirg34a8ey4y2l4rw7xgwxx4",
+						"al:android:package": "com.linkedin.android",
+						"locale": "en_US",
+						"al:ios:url": "https://ng.linkedin.com/in/olanipekun-olaide-1600631b0",
+						"og:description": "View Olanipekun Olaide’s profile on LinkedIn, the world’s largest professional community. Olanipekun has 1 job listed on their profile. See the complete profile on LinkedIn and discover Olanipekun’s connections and jobs at similar companies.",
+						"al:ios:app_store_id": "288429040",
+						"platform": "https://static-exp1.licdn.com/sc/h/69bs8pzueej9u0wdkm22iuy3u",
+						"twitter:image": "https://media-exp1.licdn.com/dms/image/C5603AQEhT9nlKpfGEw/profile-displayphoto-shrink_200_200/0/1609688173161?e=1652313600&v=beta&t=W4ImKck9YWlO_qGBz_CytWNTMNEhpMgcVhzUfJLTppQ",
+						"profile:last_name": "Olaide",
+						"twitter:site": "@Linkedin",
+						"litmsprofilename": "public-profile-frontend",
+						"profile:first_name": "Olanipekun",
+						"og:type": "profile",
+						"twitter:title": "Olanipekun Olaide - Chief Executive Officer - Tef International Enterprises | LinkedIn",
+						"al:ios:app_name": "LinkedIn",
+						"og:title": "Olanipekun Olaide - Chief Executive Officer - Tef International Enterprises | LinkedIn",
+						"pagekey": "public_profile_v3_mobile",
+						"al:android:url": "https://ng.linkedin.com/in/olanipekun-olaide-1600631b0",
+						"viewport": "width=device-width, initial-scale=1.0",
+						"twitter:description": "View Olanipekun Olaide’s profile on LinkedIn, the world’s largest professional community. Olanipekun has 1 job listed on their profile. See the complete profile on LinkedIn and discover Olanipekun’s connections and jobs at similar companies.",
+						"ubba": "https://static-exp1.licdn.com/sc/h/22vzs3tmb8g0p3pyvzcv3b7jd",
+						"og:url": "https://ng.linkedin.com/in/olanipekun-olaide-1600631b0",
+						"al:android:app_name": "LinkedIn"
+					}
+				],
+				"cse_image": [
+					{
+						"src": "https://media-exp1.licdn.com/dms/image/C5603AQEhT9nlKpfGEw/profile-displayphoto-shrink_200_200/0/1609688173161?e=1652313600&v=beta&t=W4ImKck9YWlO_qGBz_CytWNTMNEhpMgcVhzUfJLTppQ"
+					}
+				]
+			}
+		},
+		{
+			"kind": "customsearch#result",
+			"title": "Devless is an Open Source Backend-as-a-Service For Developers ...",
+			"htmlTitle": "Devless is an Open Source Backend-as-a-Service For Developers ...",
+			"link": "https://gharage.com/2016/07/08/devless-open-source-backend-service-developers/",
+			"displayLink": "gharage.com",
+			"snippet": "Jul 8, 2016 ... They can also customize the platform to suit their needs and get support from the open community”, Julius Odai responds.",
+			"htmlSnippet": "Jul 8, 2016 <b>...</b> They can also customize the platform to suit their needs and get support from the open community”, <b>Julius Odai</b> responds.",
+			"cacheId": "kG4rphPffpQJ",
+			"formattedUrl": "https://gharage.com/2016/.../devless-open-source-backend-service-developers /",
+			"htmlFormattedUrl": "https://gharage.com/2016/.../devless-open-source-backend-service-developers /",
+			"pagemap": {
+				"cse_thumbnail": [
+					{
+						"src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiY99C-Zb1EXH1ijClMKVCRK0ZpfoFLlejGiY3OUlTamxBl1g1bpZbd9Z7",
+						"width": "310",
+						"height": "163"
+					}
+				],
+				"metatags": [
+					{
+						"og:image": "https://gharage.com/wp-content/uploads/2016/07/devless-gharage.jpg",
+						"theme-color": "#2BABE2",
+						"og:type": "article",
+						"article:published_time": "2016-07-08T07:47:02+00:00",
+						"og:image:width": "800",
+						"twitter:card": "summary",
+						"og:site_name": "gharage",
+						"og:title": "Devless is an Open Source Backend-as-a-Service For Developers | gharage",
+						"og:image:height": "420",
+						"twitter:label1": "Written by",
+						"twitter:label2": "Estimated reading time",
+						"og:description": "Devless is an open source Backend as a Service for developers to rapidly develop their backend services and generate API endpoints.",
+						"twitter:creator": "@MrAyitey",
+						"article:publisher": "http://facebook.com/dcgharage",
+						"article:author": "facebook.com/clauditey",
+						"twitter:data1": "Claude Ayitey",
+						"twitter:data2": "2 minutes",
+						"apple-mobile-web-app-status-bar-style": "black-translucent",
+						"twitter:site": "@dcgharage",
+						"article:modified_time": "2019-05-09T21:49:03+00:00",
+						"viewport": "width=device-width, initial-scale=1",
+						"onesignal": "wordpress-plugin",
+						"og:locale": "en_GB",
+						"og:url": "https://gharage.com/2016/07/08/devless-open-source-backend-service-developers/"
+					}
+				],
+				"cse_image": [
+					{
+						"src": "https://gharage.com/wp-content/uploads/2016/07/devless-gharage.jpg"
+					}
+				]
+			}
+		},
+		{
+			"kind": "customsearch#result",
+			"title": "Ikechukwu Ollawa - Head, VSAT/COMPUTER UNIT - Directorate of ...",
+			"htmlTitle": "Ikechukwu Ollawa - Head, VSAT/COMPUTER UNIT - Directorate of ...",
+			"link": "https://ng.linkedin.com/in/ikechukwu-ollawa-74514b19",
+			"displayLink": "ng.linkedin.com",
+			"snippet": "Julius S.O. NWOKORO Ph.D. Chairman at Municos Ltd. Nigeria ... Julius Odai. Software Engineer | Business Process Optimization & Automation Consultant | ...",
+			"htmlSnippet": "Julius S.O. NWOKORO Ph.D. Chairman at Municos Ltd. Nigeria ... <b>Julius Odai</b>. Software Engineer | Business Process Optimization &amp; Automation Consultant |&nbsp;...",
+			"formattedUrl": "https://ng.linkedin.com/in/ikechukwu-ollawa-74514b19",
+			"htmlFormattedUrl": "https://ng.linkedin.com/in/ikechukwu-ollawa-74514b19",
+			"pagemap": {
+				"cse_thumbnail": [
+					{
+						"src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRetehGsJLJz47Rg1OiQsH-ri-KCx6EQcmX2L3I1Kae4bYuIdh4FnWq6Xw",
+						"width": "225",
+						"height": "225"
+					}
+				],
+				"metatags": [
+					{
+						"og:image": "https://media-exp1.licdn.com/dms/image/C4D03AQHrGAqxt_YpNg/profile-displayphoto-shrink_200_200/0/1516802556647?e=1651708800&v=beta&t=iRwxXVZYuHWoeso4AP-PtyHTfL5Z6D3oOs7mhllbskg",
+						"twitter:card": "summary",
+						"platform-worker": "https://static-exp1.licdn.com/sc/h/7nirg34a8ey4y2l4rw7xgwxx4",
+						"al:android:package": "com.linkedin.android",
+						"locale": "en_US",
+						"al:ios:url": "https://ng.linkedin.com/in/ikechukwu-ollawa-74514b19",
+						"og:description": "View Ikechukwu Ollawa’s profile on LinkedIn, the world’s largest professional community. Ikechukwu has 3 jobs listed on their profile. See the complete profile on LinkedIn and discover Ikechukwu’s connections and jobs at similar companies.",
+						"al:ios:app_store_id": "288429040",
+						"platform": "https://static-exp1.licdn.com/sc/h/69bs8pzueej9u0wdkm22iuy3u",
+						"twitter:image": "https://media-exp1.licdn.com/dms/image/C4D03AQHrGAqxt_YpNg/profile-displayphoto-shrink_200_200/0/1516802556647?e=1651708800&v=beta&t=iRwxXVZYuHWoeso4AP-PtyHTfL5Z6D3oOs7mhllbskg",
+						"profile:last_name": "Ollawa",
+						"twitter:site": "@Linkedin",
+						"litmsprofilename": "public-profile-frontend",
+						"profile:first_name": "Ikechukwu",
+						"og:type": "profile",
+						"twitter:title": "Ikechukwu Ollawa - Head, VSAT/COMPUTER UNIT - Directorate of ICT, MOUA,UMUDIKE | LinkedIn",
+						"al:ios:app_name": "LinkedIn",
+						"og:title": "Ikechukwu Ollawa - Head, VSAT/COMPUTER UNIT - Directorate of ICT, MOUA,UMUDIKE | LinkedIn",
+						"pagekey": "public_profile_v3_mobile",
+						"al:android:url": "https://ng.linkedin.com/in/ikechukwu-ollawa-74514b19",
+						"viewport": "width=device-width, initial-scale=1.0",
+						"twitter:description": "View Ikechukwu Ollawa’s profile on LinkedIn, the world’s largest professional community. Ikechukwu has 3 jobs listed on their profile. See the complete profile on LinkedIn and discover Ikechukwu’s connections and jobs at similar companies.",
+						"ubba": "https://static-exp1.licdn.com/sc/h/22vzs3tmb8g0p3pyvzcv3b7jd",
+						"og:url": "https://ng.linkedin.com/in/ikechukwu-ollawa-74514b19",
+						"al:android:app_name": "LinkedIn"
+					}
+				],
+				"cse_image": [
+					{
+						"src": "https://media-exp1.licdn.com/dms/image/C4D22AQEv6xP3RzUjxg/feedshare-shrink_800/0/1635836300671?e=1649289600&v=beta&t=54unOPFnJeyvbz_6cOjb_IpuXurdfc6J07BoWLNfSyE"
+					}
+				]
+			}
+		},
+		{
+			"kind": "customsearch#result",
+			"title": "彭超 - Business Owner - Daily Food Oriental Supermarket | LinkedIn",
+			"htmlTitle": "彭超 - Business Owner - Daily Food Oriental Supermarket | LinkedIn",
+			"link": "https://ca.linkedin.com/in/%E8%B6%85-%E5%BD%AD-537939a7",
+			"displayLink": "ca.linkedin.com",
+			"snippet": "Julius Odai. Software Engineer | Business Process Optimization & Automation Consultant | Entrepreneur. Ghana. Others named 彭超. 彭超. Senior Sales Manager.",
+			"htmlSnippet": "<b>Julius Odai</b>. Software Engineer | Business Process Optimization &amp; Automation Consultant | Entrepreneur. Ghana. Others named 彭超. 彭超. Senior Sales Manager.",
+			"formattedUrl": "https://ca.linkedin.com/in/超-彭-537939a7",
+			"htmlFormattedUrl": "https://ca.linkedin.com/in/超-彭-537939a7",
+			"pagemap": {
+				"cse_thumbnail": [
+					{
+						"src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnMebU04F7IEGjQfTo8TLCl8PH_ROd0Zt5XDE6IAWe9ISNF7HBHeJkXLX3",
+						"width": "200",
+						"height": "200"
+					}
+				],
+				"metatags": [
+					{
+						"og:image": "https://media-exp1.licdn.com/dms/image/C4E03AQF5yFXZNlJ0hQ/profile-displayphoto-shrink_200_200/0/1517477996139?e=1651104000&v=beta&t=MbhlB6zX0olv5675yy9xfgbhG1g33sx9J3ocSCk5v30",
+						"twitter:card": "summary",
+						"platform-worker": "https://static-exp1.licdn.com/sc/h/7nirg34a8ey4y2l4rw7xgwxx4",
+						"al:android:package": "com.linkedin.android",
+						"locale": "en_US",
+						"al:ios:url": "https://ca.linkedin.com/in/%E8%B6%85-%E5%BD%AD-537939a7",
+						"og:description": "View 彭超’s profile on LinkedIn, the world’s largest professional community. 彭超 has 2 jobs listed on their profile. See the complete profile on LinkedIn and discover 彭超’s connections and jobs at similar companies.",
+						"al:ios:app_store_id": "288429040",
+						"platform": "https://static-exp1.licdn.com/sc/h/8kye97wl49pvzenw4a5frwm70",
+						"twitter:image": "https://media-exp1.licdn.com/dms/image/C4E03AQF5yFXZNlJ0hQ/profile-displayphoto-shrink_200_200/0/1517477996139?e=1651104000&v=beta&t=MbhlB6zX0olv5675yy9xfgbhG1g33sx9J3ocSCk5v30",
+						"profile:last_name": "彭",
+						"twitter:site": "@Linkedin",
+						"litmsprofilename": "public-profile-frontend",
+						"profile:first_name": "超",
+						"og:type": "profile",
+						"twitter:title": "彭超 - Business Owner - Daily Food Oriental Supermarket | LinkedIn",
+						"al:ios:app_name": "LinkedIn",
+						"og:title": "彭超 - Business Owner - Daily Food Oriental Supermarket | LinkedIn",
+						"pagekey": "public_profile_v3_mobile",
+						"al:android:url": "https://ca.linkedin.com/in/%E8%B6%85-%E5%BD%AD-537939a7",
+						"viewport": "width=device-width, initial-scale=1.0",
+						"twitter:description": "View 彭超’s profile on LinkedIn, the world’s largest professional community. 彭超 has 2 jobs listed on their profile. See the complete profile on LinkedIn and discover 彭超’s connections and jobs at similar companies.",
+						"ubba": "https://static-exp1.licdn.com/sc/h/ab7mat909m95871bijftbooko",
+						"og:url": "https://ca.linkedin.com/in/%E8%B6%85-%E5%BD%AD-537939a7",
+						"al:android:app_name": "LinkedIn"
+					}
+				],
+				"cse_image": [
+					{
+						"src": "https://media-exp1.licdn.com/dms/image/C4E03AQF5yFXZNlJ0hQ/profile-displayphoto-shrink_200_200/0/1517477996139?e=1651104000&v=beta&t=MbhlB6zX0olv5675yy9xfgbhG1g33sx9J3ocSCk5v30"
+					}
+				]
+			}
+		},
+		{
+			"kind": "customsearch#result",
+			"title": "Here are the three winners of DEMO Africa's Accra event ...",
+			"htmlTitle": "Here are the three winners of DEMO Africa&#39;s Accra event ...",
+			"link": "https://ventureburn.com/2018/07/demo-africa-innovation-tour-complete-farmer-devless-redbird-win-accra-event/",
+			"displayLink": "ventureburn.com",
+			"snippet": "Jul 11, 2018 ... The startup was founded in 2016, its founding team includes Tsatsu Selormey and Julius Odai. Other startups that have qualified for the ...",
+			"htmlSnippet": "Jul 11, 2018 <b>...</b> The startup was founded in 2016, its founding team includes Tsatsu Selormey and <b>Julius Odai</b>. Other startups that have qualified for the&nbsp;...",
+			"cacheId": "bKxUMhdHKL4J",
+			"formattedUrl": "https://ventureburn.com/.../demo-africa-innovation-tour-complete-farmer- devless-redbird-win-accra-event/",
+			"htmlFormattedUrl": "https://ventureburn.com/.../demo-africa-innovation-tour-complete-farmer- devless-redbird-win-accra-event/",
+			"pagemap": {
+				"cse_thumbnail": [
+					{
+						"src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6ks2gKBSejhCwAHR1Mj2ir4nGJ9t4A320dRwA-Jbl-a6mXV3wvEc-atyQ",
+						"width": "300",
+						"height": "168"
+					}
+				],
+				"metatags": [
+					{
+						"og:image": "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2018/07/DEMO-Africa-accra-winners.jpg",
+						"article:published_time": "2018-07-11T09:46:50+00:00",
+						"og:image:width": "1600",
+						"twitter:card": "summary_large_image",
+						"shareaholic:keywords": "tag:accra, tag:andrew quao, tag:complete farmer, tag:completefarmer, tag:demo africa, tag:develess, tag:ghana, tag:julius odai, tag:mest africa, tag:patrick beattie, tag:redbird, tag:tsatsu selormey, cat:startup news, type:post",
+						"og:site_name": "Ventureburn",
+						"apple-mobile-web-app-title": "Ventureburn - Startup news for emerging markets",
+						"twitter:label1": "Written by",
+						"twitter:label2": "Est. reading time",
+						"shareaholic:article_modified_time": "2018-07-20T12:15:53+02:00",
+						"msapplication-tileimage": "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2019/04/cropped-ic_ventureburn-270x270.png",
+						"og:description": "Three Ghanaian startups, Complete Farmer, Develess, and RedBird, have been selected as winners of the Accra leg of the Demo Africa innovation tour.",
+						"twitter:creator": "@Ventureburn",
+						"article:publisher": "https://www.facebook.com/Ventureburn/",
+						"twitter:data1": "Staff Reporter",
+						"twitter:data2": "2 minutes",
+						"shareaholic:shareable_page": "true",
+						"twitter:site": "@Ventureburn",
+						"article:modified_time": "2018-07-20T10:15:53+00:00",
+						"shareaholic:article_published_time": "2018-07-11T11:46:50+02:00",
+						"shareaholic:language": "en-ZA",
+						"shareaholic:article_author_name": "Staff Reporter",
+						"amp-to-amp-navigation": "AMP-Redirect-To; AMP.navigateTo",
+						"og:type": "article",
+						"og:title": "Here are the three winners of DEMO Africa's Accra event - Ventureburn",
+						"og:image:height": "900",
+						"shareaholic:site_id": "38fa9f6a9f5d34ef1cb929b6696e0672",
+						"shareaholic:wp_version": "9.7.1",
+						"shareaholic:image": "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2018/07/DEMO-Africa-accra-winners-1024x576.jpg",
+						"shareaholic:url": "https://ventureburn.com/2018/07/demo-africa-innovation-tour-complete-farmer-devless-redbird-win-accra-event/",
+						"viewport": "width=device-width,shrink-to-fit=no",
+						"apple-mobile-web-app-capable": "yes",
+						"mobile-web-app-capable": "yes",
+						"og:locale": "en_US",
+						"shareaholic:site_name": "Ventureburn",
+						"og:url": "https://ventureburn.com/2018/07/demo-africa-innovation-tour-complete-farmer-devless-redbird-win-accra-event/"
+					}
+				],
+				"cse_image": [
+					{
+						"src": "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2018/07/DEMO-Africa-accra-winners.jpg"
+					}
+				],
+				"hatomfeed": [
+					{}
+				]
+			}
+		},
+		{
+			"kind": "customsearch#result",
+			"title": "Richard Matey Leigh - Engagement and Capacity Building Manager ...",
+			"htmlTitle": "Richard Matey Leigh - Engagement and Capacity Building Manager ...",
+			"link": "https://uk.linkedin.com/in/richard-matey-leigh-89b94915",
+			"displayLink": "uk.linkedin.com",
+			"snippet": "Julius Odai. Software Engineer | Business Process Optimization & Automation Consultant | Entrepreneur. Ghana. Haykanush Chobanyan. Migration Expert. Armenia ...",
+			"htmlSnippet": "<b>Julius Odai</b>. Software Engineer | Business Process Optimization &amp; Automation Consultant | Entrepreneur. Ghana. Haykanush Chobanyan. Migration Expert. Armenia&nbsp;...",
+			"formattedUrl": "https://uk.linkedin.com/in/richard-matey-leigh-89b94915",
+			"htmlFormattedUrl": "https://uk.linkedin.com/in/richard-matey-leigh-89b94915",
+			"pagemap": {
+				"cse_thumbnail": [
+					{
+						"src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTc___RAfuxCCg5hOdrzQ2z6cYgxQoPb6W6XcoEJRgeS0KfUBDwPlt3IVcy",
+						"width": "200",
+						"height": "200"
+					}
+				],
+				"metatags": [
+					{
+						"og:image": "https://media-exp1.licdn.com/dms/image/C4E03AQEHpNpsku4u_w/profile-displayphoto-shrink_200_200/0/1607290503982?e=1648080000&v=beta&t=Iz-bJWtnp4Mnt2HGRZgKEArD4I2AfqfXAVz11SajUL0",
+						"twitter:card": "summary",
+						"platform-worker": "https://static-exp1.licdn.com/sc/h/7nirg34a8ey4y2l4rw7xgwxx4",
+						"al:android:package": "com.linkedin.android",
+						"locale": "en_US",
+						"al:ios:url": "https://uk.linkedin.com/in/richard-matey-leigh-89b94915",
+						"og:description": "View Richard Matey Leigh’s profile on LinkedIn, the world’s largest professional community. Richard Matey has 11 jobs listed on their profile. See the complete profile on LinkedIn and discover Richard Matey’s connections and jobs at similar companies.",
+						"al:ios:app_store_id": "288429040",
+						"platform": "https://static-exp1.licdn.com/sc/h/f5e0tjm63612x2zmp635cevpz",
+						"twitter:image": "https://media-exp1.licdn.com/dms/image/C4E03AQEHpNpsku4u_w/profile-displayphoto-shrink_200_200/0/1607290503982?e=1648080000&v=beta&t=Iz-bJWtnp4Mnt2HGRZgKEArD4I2AfqfXAVz11SajUL0",
+						"profile:last_name": "Leigh",
+						"twitter:site": "@Linkedin",
+						"litmsprofilename": "public-profile-frontend",
+						"profile:first_name": "Richard Matey",
+						"og:type": "profile",
+						"twitter:title": "Richard Matey Leigh - Engagement and Capacity Building Manager - AFFORD UK | LinkedIn",
+						"al:ios:app_name": "LinkedIn",
+						"og:title": "Richard Matey Leigh - Engagement and Capacity Building Manager - AFFORD UK | LinkedIn",
+						"pagekey": "public_profile_v3_mobile",
+						"al:android:url": "https://uk.linkedin.com/in/richard-matey-leigh-89b94915",
+						"viewport": "width=device-width, initial-scale=1.0",
+						"twitter:description": "View Richard Matey Leigh’s profile on LinkedIn, the world’s largest professional community. Richard Matey has 11 jobs listed on their profile. See the complete profile on LinkedIn and discover Richard Matey’s connections and jobs at similar companies.",
+						"ubba": "https://static-exp1.licdn.com/sc/h/7cl6v61u6bk8s38i83ddrmt4c",
+						"og:url": "https://uk.linkedin.com/in/richard-matey-leigh-89b94915",
+						"al:android:app_name": "LinkedIn"
+					}
+				],
+				"cse_image": [
+					{
+						"src": "https://media-exp1.licdn.com/dms/image/C4E03AQEHpNpsku4u_w/profile-displayphoto-shrink_200_200/0/1607290503982?e=1648080000&v=beta&t=Iz-bJWtnp4Mnt2HGRZgKEArD4I2AfqfXAVz11SajUL0"
+					}
+				]
+			}
+		},
+		{
+			"kind": "customsearch#result",
+			"title": "An evaluation of the diagnostic performance characteristics of the ...",
+			"htmlTitle": "An evaluation of the diagnostic performance characteristics of the ...",
+			"link": "https://pubmed.ncbi.nlm.nih.gov/34995319/",
+			"displayLink": "pubmed.ncbi.nlm.nih.gov",
+			"snippet": "Jan 7, 2022 ... ... Nafisah Issah Rabiwu , David Opare , Godfred Owusu-Okyere , Dennis Odai Laryea , Franklin Asiedu-Bekoe , Julius Abraham Addo Mingle ...",
+			"htmlSnippet": "Jan 7, 2022 <b>...</b> ... Nafisah Issah Rabiwu , David Opare , Godfred Owusu-Okyere , Dennis <b>Odai</b> Laryea , Franklin Asiedu-Bekoe , <b>Julius</b> Abraham Addo Mingle&nbsp;...",
+			"formattedUrl": "https://pubmed.ncbi.nlm.nih.gov/34995319/",
+			"htmlFormattedUrl": "https://pubmed.ncbi.nlm.nih.gov/34995319/",
+			"pagemap": {
+				"metatags": [
+					{
+						"og:image": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png",
+						"citation_publication_date": "2022/01/07",
+						"theme-color": "#20558a",
+						"twitter:card": "summary",
+						"citation_title": "An evaluation of the diagnostic performance characteristics of the Yellow Fever IgM immunochromatographic rapid diagnostic test kit from SD Biosensor in Ghana",
+						"citation_author_institution": "National Public Health and Reference Laboratory, Ghana Health Service, Korle-Bu, Accra, Ghana.",
+						"og:site_name": "PubMed",
+						"twitter:url": "https://pubmed.ncbi.nlm.nih.gov/34995319/",
+						"citation_publisher": "PLoS One",
+						"citation_journal_title": "PloS one",
+						"ncbi_pdid": "abstract",
+						"ncbi_phid": "62FE0001BC9EC44500002EB5DFE2AA9F.1.m_3",
+						"og:description": "Yellow fever is endemic in Ghana and outbreaks occur periodically. The prodromal signs due to Yellow Fever Virus (YFV) infection are non-specific, making clinical signs unreliable as the sole criteria for diagnosis. Accurate laboratory confirmation of suspected yellow fever cases is therefore vital …",
+						"ncbi_cost_center": "pubmed",
+						"og:image:secure_url": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png",
+						"twitter:image": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png",
+						"uid": "34995319",
+						"ncbi_db": "pubmed",
+						"ncbi_pinger_stat_url": "https://www.ncbi.nlm.nih.gov/stat",
+						"log_category": "literature",
+						"og:type": "website",
+						"twitter:title": "An evaluation of the diagnostic performance characteristics of the Yellow Fever IgM immunochromatographic rapid diagnostic test kit from SD Biosensor in Ghana - PubMed",
+						"handheldfriendly": "True",
+						"twitter:domain": "pubmed.ncbi.nlm.nih.gov",
+						"citation_journal_abbrev": "PLoS One",
+						"ncbi_app": "pubmed",
+						"log_icons_present": "true",
+						"og:title": "An evaluation of the diagnostic performance characteristics of the Yellow Fever IgM immunochromatographic rapid diagnostic test kit from SD Biosensor in Ghana - PubMed",
+						"citation_author": "Lawrence Henry Ofosu-Appiah",
+						"log_op": "retrieve",
+						"citation_issue": "1",
+						"referrer": "origin-when-cross-origin",
+						"log_source_db": "pubmed,pmc",
+						"citation_firstpage": "e0262312",
+						"log_displayeduids": "34995319",
+						"ncbi_uid": "34995319",
+						"viewport": "width=device-width, initial-scale=1.0",
+						"twitter:description": "Yellow fever is endemic in Ghana and outbreaks occur periodically. The prodromal signs due to Yellow Fever Virus (YFV) infection are non-specific, making clinical signs unreliable as the sole criteria for diagnosis. Accurate laboratory confirmation of suspected yellow fever cases is therefore vital …",
+						"mobileoptimized": "320",
+						"citation_volume": "17",
+						"og:url": "https://pubmed.ncbi.nlm.nih.gov/34995319/"
+					}
+				],
+				"webpage": [
+					{
+						"image": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png",
+						"name": "An evaluation of the diagnostic performance characteristics of the Yellow Fever IgM immunochromatographic rapid diagnostic test kit from SD Biosensor in Ghana - PubMed",
+						"description": "Yellow fever is endemic in Ghana and outbreaks occur periodically. The prodromal signs due to Yellow Fever Virus (YFV) infection are non-specific, making clinical signs unreliable as the sole...",
+						"url": "https://pubmed.ncbi.nlm.nih.gov/34995319/"
+					}
+				],
+				"cse_image": [
+					{
+						"src": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+					}
+				]
+			}
+		}
+	]
+}

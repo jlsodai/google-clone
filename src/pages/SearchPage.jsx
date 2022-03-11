@@ -5,9 +5,11 @@ import MenuIcon from '../components/MenuIcon';
 import Avatar from '../components/Avatar';
 import { Link, useSearchParams, useNavigate } from 'react-router-dom';
 import TopLinks from '../components/TopLinks';
+import results from "../results.json";
+import SearchResult from '../components/SearchResult';
 
 const SearchPage = () => {
-  const [searchParams, setSearchParams] = useSearchParams();
+  const [searchParams] = useSearchParams();
   const [searchTerm, setSearchTerm] = useState(searchParams.get('s'))
   const navigate = useNavigate();
 
@@ -15,6 +17,8 @@ const SearchPage = () => {
     e.preventDefault()
     navigate('/search?s=' + searchTerm)
   }
+
+  console.log(results.items)
 
   return (
     <>
@@ -25,7 +29,7 @@ const SearchPage = () => {
             <SearchBar onChange={e => setSearchTerm(e.target.value)} value={searchTerm} />
           </form>
         </div>
-        <div className="flex self-center space-x-2 items-center shrink-0">
+        <div className="md:flex self-center space-x-2 items-center shrink-0 hidden">
           <MenuIcon />
           <Avatar />
         </div>
@@ -36,11 +40,26 @@ const SearchPage = () => {
       </nav>
 
       <main className="container">
-        <div className="py-3">About 177,000,000 results (0.65 seconds)</div>
+        <div className="py-3">About {results.searchInformation.formattedTotalResults} ({results.searchInformation.formattedSearchTime} seconds)</div>
+
+        <div className="max-w-[660px] mt-2">
+          {results.items.map((item, i) => (
+            <SearchResult item={item} key={i} />
+          ))}
+        </div>
       </main>
 
-      <div className="container">Results Section Goes Here</div>
-      <footer className="container">Footer Section Goes Here</footer>
+      <footer className="bg-[#f2f2f2] text-[#70757a]">
+        <div className="border-b py-3">
+          <div className="container"><strong>Project By:</strong> Julius A. Odai</div>
+        </div>
+        <div className="container space-x-10 py-3">
+          <Link to="">Help</Link>
+          <Link to="">Send feedback</Link>
+          <Link to="">Privacy</Link>
+          <Link to="">Terms</Link>
+        </div>
+      </footer>
     </>
   )
 }

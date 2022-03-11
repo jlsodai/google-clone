@@ -29,7 +29,7 @@ const SearchPage = () => {
             <SearchBar onChange={e => setSearchTerm(e.target.value)} value={searchTerm} />
           </form>
         </div>
-        <div className="md:flex self-center space-x-2 items-center shrink-0 hidden">
+        <div className="sm:flex self-center space-x-2 items-center shrink-0 hidden">
           <MenuIcon />
           <Avatar />
         </div>

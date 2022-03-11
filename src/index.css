@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .icon-link {
+    @apply pb-3
+  }
+  .icon-link.current {
+    @apply border-b-[3px] border-blue-500
+  }
+  .icon-link svg {
+    @apply w-4 mr-1 inline-block
+  }
+}

@@ -2,7 +2,7 @@ import React from 'react'
 import SearchBar from './SearchBar';
 import MenuIcon from './MenuIcon';
 import Avatar from './Avatar';
-import { useNavigate, useSearchParams } from 'react-router-dom';
+import { useNavigate, useSearchParams, Link } from 'react-router-dom';
 import { useState } from 'react';
 
 const SearchHeader = () => {
@@ -18,7 +18,7 @@ const SearchHeader = () => {
   return (
     <div className="flex justify-between mx-6 mt-6 items-center">
       <div className="flex shrink items-center space-x-4">
-        <img className="w-[86px] h-full mr-7" src="/images/logo_small.png" alt="" />
+        <Link to="/"><img className="w-[86px] h-full mr-7" src="/images/logo_small.png" alt="" /></Link>
         <form onSubmit={searched}>
           <SearchBar onChange={e => setSearchTerm(e.target.value)} value={searchTerm} />
         </form>

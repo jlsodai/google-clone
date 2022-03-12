@@ -2,7 +2,7 @@
 const Footer = () => {
   return (
     <footer className="bg-[#f2f2f2] text-[#70757a] flex flex-col divide-y divide-[#dadce0] divide-solid">
-      <div className="px-7 py-3">Ghana</div>
+      <div className="px-7 py-3"><strong>Project By:</strong> Julius A. Odai</div>
       <div className="flex justify-between px-7 py-3">
         <div className="space-x-7">
           <a href="">About</a>

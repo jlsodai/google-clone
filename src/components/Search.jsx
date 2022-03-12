@@ -25,7 +25,7 @@ const Search = () => {
         <Link className="rounded bg-gray-100 px-4 py-2" to="https://www.google.com/doodles">I'm Feeling Lucky</Link>
       </div>
       <p>Google offered in: <span className="text-blue-900 space-x-2">
-        <Link to="#">Hausa</Link> <Link to="#">Akan</Link> <Link to="#">Ewe</Link> <Link to="#">Ga</Link>
+        <Link to="#">French</Link> <Link to="#">Spanish</Link> <Link to="#">Portuguese</Link> <Link to="#">Others</Link>
       </span></p>
     </form>
   )

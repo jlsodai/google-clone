@@ -3,12 +3,17 @@ import SearchBar from './SearchBar';
 import MenuIcon from './MenuIcon';
 import Avatar from './Avatar';
 import { useNavigate, useSearchParams, Link } from 'react-router-dom';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 
 const SearchHeader = () => {
   const [searchParams] = useSearchParams();
-  const [searchTerm, setSearchTerm] = useState(searchParams.get('s'))
+  const searchQuery = searchParams.get('s')
+  const [searchTerm, setSearchTerm] = useState('')
   const navigate = useNavigate();
+
+  useEffect(() => {
+    setSearchTerm(searchQuery);
+  }, [searchQuery])
 
   const searched = (e) => {
     e.preventDefault()

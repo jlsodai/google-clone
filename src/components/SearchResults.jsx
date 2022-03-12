@@ -10,7 +10,6 @@ const SearchResults = () => {
   const [searchParams] = useSearchParams();
   const [searchTerm] = useState(searchParams.get('s'))
   const { items } = useGoogleSearch(searchTerm)
-  console.log(items.error)
 
   return (
     <main className="container">

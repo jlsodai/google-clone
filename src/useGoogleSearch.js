@@ -4,11 +4,14 @@ import { useNavigate } from 'react-router-dom';
 const useGoogleSearch = (search) => {
   const [items, setItems] = useState('')
   const navigate = useNavigate()
+  const apiKey = process.env.REACT_APP_SEARCH_API_KEY
+  const baseUrl = process.env.REACT_APP_SEARCH_BASE_URL
+  const searchId = process.env.REACT_APP_SEARCH_ENGINE_ID
 
   useEffect(() => {
     if (search) {
       const fetchData = async() => {
-        fetch(`https://www.googleapis.com/customsearch/v1?key=AIzaSyATX68WMcz1KLIW7tTQde4ipWnPFx8d00M&cx=27fa05010b0454969&q=${encodeURI(search)}`)
+        fetch(`${baseUrl}?key=${apiKey}&cx=${searchId}&q=${encodeURI(search)}`)
         .then(response => response.json())
         .then(result => {
           setItems(result)
